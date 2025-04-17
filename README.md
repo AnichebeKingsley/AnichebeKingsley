@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on top projects
 - 📫 How to reach me ...www.linkedin.com/in/kingsley-anichebe-470701343
-- 😄 Pronouns: ...
+- 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ...
 
 <!---
